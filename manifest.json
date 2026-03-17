@@ -1,0 +1,13 @@
+{
+  "name": "Семейный центр",
+  "short_name": "Family",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F2EA",
+  "theme_color": "#6E8F73",
+  "description": "Семейный центр жизни и обучения",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
